@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg.bmp)
+![avatar](avatar.jpg)
 
 # anshy
 
